@@ -1,5 +1,5 @@
 # Day6EndTest
-# Branch - A git branch references to a single git commit. It is basically a pointer to commits: # git branch -l (Lists the branches)
+# Branch - A git branch references to a single git commit. It is basically a pointer to commits, The default branch name in Git is called master. To list a branch/branches use this command: # git branch -l (Lists the branches)
 										 # git branch -a
 # Commit - A commit is an individual change to a file (or set of files). A commit adds the lastest changes to a repository.
 	   git log is the command used to lists the commits made in a repository 
