@@ -1,5 +1,4 @@
 # Day6EndTest
-TERM 1
 STATUS 
 A status is a type of status check on GitHub. See "Status checks."
 Status checks
